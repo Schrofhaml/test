@@ -37,7 +37,7 @@
         },
         {
             "name": "GIT_REPOSITORY_URL",
-            "value": "",
+            "value": "https://github.com/jupyter-on-openshift/jupyter-notebooks",
             "required": true
         },
         {
