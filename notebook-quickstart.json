@@ -13,7 +13,7 @@
     "parameters": [
         {
             "name": "APPLICATION_NAME",
-            "value": "custom-notebook",
+            "value": "custom-notebook2",
             "required": true
         },
         {
